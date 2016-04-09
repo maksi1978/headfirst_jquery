@@ -1,0 +1,5 @@
+Page:
+- 4 sections/4 images per section
+- message that says "Your discount is" that displays a random discount (5-10%)
+- when user clicks on one of the sections, the message should appear below the image in that section
+- if user clicks again, get rid of the last image and display a new one.

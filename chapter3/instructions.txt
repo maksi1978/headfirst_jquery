@@ -1,0 +1,8 @@
+Page:
+- 4 sections/4 images
+- same discount each time (20%)
+- one chance to find discount code, which is in a random square for each visit
+- if a visitor finds the discount code when he clicks, show it to him on the screen before he proceeds
+- otherwise, show gim the box where the code was hiding
+
+

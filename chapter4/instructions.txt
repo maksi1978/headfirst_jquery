@@ -1,0 +1,9 @@
+- we need "Go Vegetarian" button that automatically subtitutes the vegetarian options on our web page menu
+
+How subtitutions work:
+- no subtitutes for our fish entries, so we need those removed
+- we offer giant portobello mushrooms as a vegetarian substitute for our hamburgers
+- we offer tofu as a vegetarian substitute for all of our meat and egg dishes except hamburgers
+
+- we need a button that restores the menu to its original state
+
